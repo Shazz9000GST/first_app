@@ -1,0 +1,19 @@
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/erb-5.0.2/ext/erb/escape
+/home/xo81b/.rbenv/versions/3.2.0/bin/ruby -I /home/xo81b/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-1jspwi sitelibdir\=./.gem.20250929-2789-1jspwi clean
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-1jspwi sitelibdir\=./.gem.20250929-2789-1jspwi
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-1jspwi sitelibdir\=./.gem.20250929-2789-1jspwi install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250929-2789-1jspwi/erb
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-1jspwi sitelibdir\=./.gem.20250929-2789-1jspwi clean

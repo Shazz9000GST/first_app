@@ -1,0 +1,19 @@
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+/home/xo81b/.rbenv/versions/3.2.0/bin/ruby -I /home/xo81b/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-grihjp sitelibdir\=./.gem.20250929-2789-grihjp clean
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-grihjp sitelibdir\=./.gem.20250929-2789-grihjp
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-grihjp sitelibdir\=./.gem.20250929-2789-grihjp install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250929-2789-grihjp/debug
+
+current directory: /home/xo81b/projects/first_app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250929-2789-grihjp sitelibdir\=./.gem.20250929-2789-grihjp clean
